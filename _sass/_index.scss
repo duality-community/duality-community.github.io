@@ -100,8 +100,7 @@
                             &:hover {
                                 background-color: #dbdfee;
                                 .badge {
-                                    background-color: #dbdfee;
-                                    transform: scale(1.2) rotate(360deg);
+                                    background-color: #4d6dad;
                                 }
                             }
                             .name {
@@ -136,7 +135,8 @@
                     }
                 }
                 .tags-cloud {
-                    font-weight: normal;
+					font-weight: normal;
+					border-bottom: none;
                     a {
                         padding: 0 3px;
                         border-radius: 5px;
