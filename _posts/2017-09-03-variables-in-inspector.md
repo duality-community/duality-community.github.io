@@ -14,19 +14,18 @@ inspector. In Unity, you would declare the variable as public or put `[Serialize
 will not work in Duality. So how would you go about doing this? Well, this snippet shows how to do this with a float variable, but it will 
 work with any variable type, including integers, strings and booleans.
 ```csharp
-public class EpicScript : Component
+public class MyComponent : Component
 {
     // Declare a field to actually store data in
-    private float epicValue = 17.0f;
+    private float myVal = 17.0f;
 
     // Declare a property to access it for reading and writing.
     // The editor will use this in the Object Inspector.
-    public float epicValue
+    public float myVal
     {
-        get { return this.epicValue; }
-        set { this.epicValue = value; }
+        get { return this.myVal; }
+        set { this.myVal = value; }
     }
     // Insert following code here.
 ```
-This code tells the inspector to allow the user to modify/read the variable through the inspector and then gets the value set in the
-inspector before the variable is used.
+This gets and sets data from and to the inspector and uses it at runtime.
