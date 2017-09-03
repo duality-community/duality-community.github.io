@@ -29,6 +29,7 @@ type: page
 # Video tutorials
 - [Gamefromscratch.com's Closer Look](http://www.gamefromscratch.com/post/2015/11/03/A-Closer-Look-at-the-Duality-Engine.aspx)
 - [Dualitor Youtube Channel](https://www.youtube.com/channel/UCxpgvQjNcxMRad2Nw0qsY4A)
+- [80lv's Tutorial for Beginners](https://www.youtube.com/watch?v=oNINkpeC8PE)
 
 # Developer blogs
 - [Adam's Lair](http://www.adamslair.net/blog/)
