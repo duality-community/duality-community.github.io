@@ -9,7 +9,7 @@ mathjax: false
 author: loeller
 ---
 
-A common scenario, usually with jam entries is when you need to loop an audio file through the whole game. Since we don't want our music loop to restart on `Scene` changes, `Components` are out of the game here (*pun intended*). Insted, we might want to touch the otherwise not-very-popular `CorePlugin`, and make use of a recently introduced virtual method: `CorePlugin.OnGameStarting`.
+A common scenario, usually with jam entries is when you need to loop an audio file through the whole game. Since we don't want our music loop to restart on `Scene` changes, `Components` are out of the game here (*pun intended*). Instead, we might want to touch the otherwise not-very-popular `CorePlugin`, and make use of a recently introduced virtual method: `CorePlugin.OnGameStarting`.
 
 ```csharp
 static class AudioPlayer
