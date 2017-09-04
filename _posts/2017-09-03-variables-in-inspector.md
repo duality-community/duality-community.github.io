@@ -28,4 +28,4 @@ public class MyComponent : Component
     }
     // Insert following code here.
 ```
-This gets and sets data from and to the inspector and uses it at runtime.
+This gets and sets data from and to the inspector and uses it at runtime. The data is also serialised for this process to function. However, this process can be stopped by adding the [DontSerialize] attribute.
