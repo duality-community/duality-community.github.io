@@ -12,7 +12,7 @@ author: BaconGamer88
 Beginner programmers in Duality may have begun to create their scripts, only to wonder why they can't read/write variables in the 
 inspector. In Unity, you would declare the variable as public or put `[SerializeField]` in front of the variable. However, both approaches 
 will not work in Duality. So how would you go about doing this? Well, this snippet shows how to do this with a float variable, but it will 
-work with any variable type, including integers, strings and booleans.
+work with any variable type, including integers, strings and booleans, as well as non-builtin types.
 ```csharp
 public class MyComponent : Component
 {
