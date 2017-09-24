@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contribution
-permalink: /about/
+permalink: /contribution/
 icon: heart
 type: page
 ---
