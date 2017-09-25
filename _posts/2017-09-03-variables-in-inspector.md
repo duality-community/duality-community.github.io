@@ -27,5 +27,6 @@ public class MyComponent : Component
         set { this.myVal = value; }
     }
     // Insert following code here.
+}
 ```
 This gets and sets data from and to the inspector and uses it at runtime.
