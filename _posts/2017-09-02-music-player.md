@@ -4,7 +4,7 @@ title:  Playing music across multiple scenes
 date:   2017-09-02
 categories: Tips&Tricks
 tags: audio code
-excerpt:
+excerpt: This snippet introduces the foundations of an audio player system, using the CorePlugin functionality.
 mathjax: false
 author: loeller
 ---

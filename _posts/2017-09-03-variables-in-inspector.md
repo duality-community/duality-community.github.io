@@ -4,7 +4,7 @@ title:  Making Variables Visible in Inspector
 date:   2017-09-03
 categories: Tips&Tricks
 tags: inspector code beginner
-excerpt:
+excerpt: This code snippet shows the way of exposing Component members in the inspector.
 mathjax: false
 author: BaconGamer88
 ---
