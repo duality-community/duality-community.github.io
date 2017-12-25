@@ -9,6 +9,22 @@ Also it is intended to serve as a feed of news about the development of the engi
 
 This means, that every user of the engine *(including YOU)* is very welcome to contribute to the site.
 
+## What to contribute
+
+New articles are always welcome! Topics can vary greatly and are not limited to Duality-specific areas either. If you want to contribute, but are not yet sure which topic to pick, here are some ideas:
+
+* A small-but-nice feature you made
+* How to render something that is not a sprite
+* A useful code snippet
+* An article about a game you're making
+* A quick introduction of a game jam that will start soon
+* Where you get your game resources
+* Five ways to organize your game resources, with pros and cons
+* What you learned when making your last game
+* ...and so on!
+
+Of course you can also submit Pull Requests with small edits and adjustments, like fixing a typo here and there, or rewriting a smaller part of a page.
+
 ## How to contribute
 The project is built upon the technology provided by [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pages.github.com).
 Although both of them features comprehensive documentation, here stands a quick list of instructions aimed at beginners to catch up as quickly as possible.
