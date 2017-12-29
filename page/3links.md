@@ -10,10 +10,12 @@ type: page
 {:toc}
 
 # Official sites
-- [Main Duality site](https://duality.adamslair.net)
+- [Project page](https://duality.adamslair.net)
 - [Github repository](https://github.com/AdamsLair/duality)
 - [Github wiki](https://github.com/AdamsLair/duality/wiki)
-- [Official Discord chat room](http://chat.adamslair.net/)
+- [Discord chat room](http://chat.adamslair.net/)
+- [Forum](http://forum.adamslair.net/)
+- [Twitter feed](https://twitter.com/search?f=tweets&vertical=default&q=%23duality2d%20lang%3Aen%20-RT)
 
 # Text based tutorials
 ### Github Wiki
@@ -24,17 +26,20 @@ type: page
 
 ### External
 - [Breakout Game](http://www.snowypeakstudio.com/2015/03/02/breakout.html)
-- [Dynamic Tilemaps](https://www.packtpub.com/books/content/create-dynamic-tilemaps-duality-c-–-part-i) ([Part II](https://www.packtpub.com/books/content/create-dynamic-tilemaps-duality-c-–-part-ii))
+- [Dynamic Tilemaps](https://www.packtpub.com/books/content/create-dynamic-tilemaps-duality-c-–-part-i), [Part II](https://www.packtpub.com/books/content/create-dynamic-tilemaps-duality-c-–-part-ii)
 
 # Video tutorials
-- [Gamefromscratch.com's Closer Look](http://www.gamefromscratch.com/post/2015/11/03/A-Closer-Look-at-the-Duality-Engine.aspx)
+- [Gamefromscratch.com's Closer Look](https://www.youtube.com/watch?v=JE9o1pL_KZ8)
+- [Gamefromscratch.com's Physics Platformer](https://www.youtube.com/watch?v=rQKWWA2LU6A)
+- [Getting Started on Channel9](https://channel9.msdn.com/Shows/dotGAME/Getting-Started-with-Duality--Part-1), [Part II](https://channel9.msdn.com/Shows/dotGAME/Getting-Started-with-Duality--Part-2)
 - [Dualitor Youtube Channel](https://www.youtube.com/channel/UCxpgvQjNcxMRad2Nw0qsY4A)
 - [80lv's Tutorial for Beginners](https://www.youtube.com/watch?v=oNINkpeC8PE)
 
-# Developer blogs
-- [Adam's Lair](http://www.adamslair.net/blog/)
+# Blogs
+- [Adam's Lair](http://blog.adamslair.net/)
 - [SnowyPeak Studio](http://www.snowypeakstudio.com)
 - [Batcat Games](http://batcatgames.com/blog/)
 
-# Game's pages
+# Games
 - [Duality game collection on itch.io](https://itch.io/c/39251/duality-games)
+- [Jazz Jackrabbit 2 Clone](https://github.com/deathkiller/jazz2) (Windows, Linux, MacOS, Android)
