@@ -26,7 +26,9 @@ type: page
 
 ### External
 - [Breakout Game](http://www.snowypeakstudio.com/2015/03/02/breakout.html)
-- [Dynamic Tilemaps](https://www.packtpub.com/books/content/create-dynamic-tilemaps-duality-c-–-part-i), [Part II](https://www.packtpub.com/books/content/create-dynamic-tilemaps-duality-c-–-part-ii)
+- [Dynamic Tilemaps](https://hub.packtpub.com/create-dynamic-tilemaps-duality-c-part-i/), [Part II](https://hub.packtpub.com/create-dynamic-tilemaps-duality-c-part-ii/)
+- [Abstract terrain shader](https://hub.packtpub.com/abstract-terrain-shader-duality/)
+- [Turn-based game framework](https://hub.packtpub.com/turn-based-game-framework-duality-c/)
 
 # Video tutorials
 - [Gamefromscratch.com's Closer Look](https://www.youtube.com/watch?v=JE9o1pL_KZ8)
